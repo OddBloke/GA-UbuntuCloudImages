@@ -1,0 +1,14 @@
+# Template file for entities
+
+#Format as below
+
+# entity_name:
+#  - entry1: list of synonyms 
+#  - entry2: list of synonyms 
+
+ubuntu_release:
+    - trusty: ["trusty", "14.04", "14.04 LTS", "trusty tahr"]
+    - xenial: ["xenial", "16.04", "16.04 LTS", "xenial xerus"]
+    - zesty: ["zesty", "17.04", "zesty zapus"]
+    - artful: ["artful", "17.10", "artful aardvark"]
+    - bionic: ["bionic", "18.04", "18.04 LTS", "bionic beaver"]

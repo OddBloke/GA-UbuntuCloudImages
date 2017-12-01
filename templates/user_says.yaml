@@ -1,0 +1,26 @@
+# Template for defining UserSays examples
+
+# give-color-intent:
+
+#  UserSays:
+#    - My color is blue
+#    - red is my favorite color
+
+#  Annotations:
+#    - blue: sys.color     # maps param value -> entity
+#    - red: sys.color
+
+#  Events:
+#    - event1              # adds a triggerable event named 'event1' to the intent
+
+
+
+find_latest_serial:
+  UserSays:
+      - Tell me the most recent artful image.
+      - What bionic image was published last?
+      - What is the latest xenial image?
+  Annotations:
+      - artful: ubuntu_release
+      - bionic: ubuntu_release
+      - xenial: ubuntu_release
