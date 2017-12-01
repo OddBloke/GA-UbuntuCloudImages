@@ -1,3 +1,4 @@
 flask
 flask-assistant
+gunicorn
 num2words
