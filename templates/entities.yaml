@@ -7,7 +7,7 @@
 #  - entry2: list of synonyms 
 
 ubuntu_release:
-    - trusty: ["trusty", "14.04", "14.04 LTS", "trusty tahr"]
+    - trusty: ["trusty", "14.04", "14.04 LTS", "trusty tahr", "trustee"]
     - xenial: ["xenial", "16.04", "16.04 LTS", "xenial xerus"]
     - zesty: ["zesty", "17.04", "zesty zapus"]
     - artful: ["artful", "17.10", "artful aardvark"]
