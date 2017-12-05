@@ -20,7 +20,13 @@ find_latest_serial:
       - Tell me the most recent artful image.
       - What bionic image was published last?
       - What is the latest xenial image?
+      - artful
+      - xenial xerus
+      - trusty release
+      - latest version of bionic
   Annotations:
       - artful: ubuntu_release
       - bionic: ubuntu_release
       - xenial: ubuntu_release
+      - xenial xerus: ubuntu_release
+      - trusty: ubuntu_release
